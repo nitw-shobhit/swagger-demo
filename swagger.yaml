@@ -2,7 +2,7 @@ swagger: "2.0"
 info:
   version: 1.0.0
   title: appgrid-swagger
-  description: Something else here description
+  description: Emil new description
   termsOfService: http://swagger.io/terms/
   contact:
     name: Swagger API Team
